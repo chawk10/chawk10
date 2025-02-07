@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cossio, an <a href="[https://linkedin.com/in/Cossiohawk](https://www.linkedin.com/in/cossio-hawk-930547259/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Cossio, an <a href="[https://linkedin.com/in/Cossiohawk](https://www.linkedin.com/in/cossio-hawk-930547259/)">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
